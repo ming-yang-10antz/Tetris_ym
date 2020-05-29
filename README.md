@@ -3,8 +3,7 @@
 
 ## Demo
 
-
-
+![image](https://github.com/ming-yang-10antz/Tetris_ym/blob/master/Demo/Demo.png)
 
 
 
